@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": 2,
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "id": 3,
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "name": "Cueca",
+      "price": "5.00",
+      "id": 4
+    },
+    {
+      "name": "Bolsa Gucci",
+      "price": "44000.00",
+      "id": 5
+    },
+    {
+      "name": "Gabriel",
+      "price": "100",
+      "id": 6
+    },
+    {
+      "name": "Gabriel",
+      "price": "100",
+      "id": 7
+    },
+    {
+      "name": "G",
+      "price": "123",
+      "id": 8
+    },
+    {
+      "name": "Gabriel",
+      "price": "123",
+      "id": 9
+    }
+  ]
+}

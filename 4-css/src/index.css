@@ -1,0 +1,10 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: 'Helvetica';
+  margin-bottom: 500px;
+}
+
+*{
+  box-sizing: border-box;
+}
